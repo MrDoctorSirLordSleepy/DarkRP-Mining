@@ -1,0 +1,2 @@
+mining_saverocks -- Save pos of all rocks placed
+mining_deleteallrocks -- Deletes all permanant rocks on the map
